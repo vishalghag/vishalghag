@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Any ongoing project
 - 🤔 I’m looking for help with Redux Operation
 - 💬 Ask me about web devlopment
-- 📫 How to reach me: Twitter :- @vishalvijayghag
+- 📫 How to reach me: Twitter :- <a href="https://twitter.com/VishalVijayGhag"></a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: still Searching...
