@@ -7,13 +7,18 @@
  I'm Vishal Ghag from India, a passionate technology enthusiast. I love diving into new technologies, especially in the realms of JavaScript and TypeScript. My focus revolves around frameworks like React.js and TypeScript React.js. I believe in the power of collaboration and open-source, which is why I actively contribute to projects on GitHub. 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node js](https://img.shields.io/badge/-Node-black?style=flat-square&logo=Python)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=material-ui)
+![Vanilla JavaScript](https://img.shields.io/badge/-Vanilla%20JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalghag&hide=TeX&layout=compact)
 
